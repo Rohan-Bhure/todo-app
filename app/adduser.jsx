@@ -1,4 +1,4 @@
-// app/addedituser.jsx
+
 import DateTimePicker from '@react-native-community/datetimepicker';
 import axios from 'axios';
 import { useState } from 'react';
